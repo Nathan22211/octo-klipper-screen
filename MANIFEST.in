@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoklipperscreen/templates *
+recursive-include octoklipperscreen/translations *
+recursive-include octoklipperscreen/static *
